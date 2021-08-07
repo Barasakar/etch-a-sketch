@@ -1,0 +1,17 @@
+#container { 
+    margin-left: 40%;
+    width: 256px;
+    height: 256px;
+}
+
+.grid {
+    width: 16px;
+    height: 16px;
+    outline: 0.5px solid;
+    float: left;
+}
+
+#reset {
+    margin-top: 20px;
+    margin-left: 47%;
+}
